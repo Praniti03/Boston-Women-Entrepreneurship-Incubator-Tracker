@@ -3,6 +3,7 @@
 A centralized data system designed to track, manage, and analyze startups, mentors, investors, and events for incubator program insights and data-driven decision-making.
 
 **📌 Project Overview**
+
 Incubator programs often manage complex, interconnected data across startups, mentors, investors, funding, and events. This project focuses on building an end-to-end data system that integrates relational and NoSQL databases to enable structured tracking, flexible querying, and actionable analytics for incubator operations.
 The system supports operational reporting, performance analysis, and engagement tracking across multiple entities in a scalable and well-modeled data architecture.
 
@@ -28,13 +29,13 @@ Relational Database (MySQL)
 
 •	Core entities include:
 
-o	120 startups
-
-o	80 mentors
-
-o	60 investors
-
-o	60 events
+  o	120 startups
+  
+  o	80 mentors
+  
+  o	60 investors
+  
+  o	60 events
 
 •	Junction tables used to manage many-to-many relationships
 
@@ -50,9 +51,9 @@ NoSQL Database (MongoDB)
 
 •	Developed Python-based automation scripts to execute:
 
-o	10+ simple and advanced MySQL queries
-
-o	Aggregation and filtering logic
+  o	10+ simple and advanced MySQL queries
+  
+  o	Aggregation and filtering logic
 
 •	Performed exploratory data analysis (EDA) on operational data
 
